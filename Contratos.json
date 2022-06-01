@@ -1,0 +1,12 @@
+[
+    {
+        "__class__": "Contrato",
+        "__atributos__": {
+            "fecha_inicio": "2022-05-24 19:13:56.294064",
+            "fecha_fin": "2023-05-24 00:00:00",
+            "pago": 20000.0,
+            "dni": "44127975",
+            "nombre_equipo": "Equipo1"
+        }
+    }
+]
